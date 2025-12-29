@@ -1,16 +1,43 @@
-## Hi there I am Kevin Biju👋
+# 👋 Hi, I'm Kevin Biju
 
-<!--
-**Kev15-o/Kev15-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+🎓 **B.Sc. Computer Science Student**  
+Sahrdaya College of Advanced Studies, Thrissur, Kerala  
 
-- 🔭 I’m currently working on Python Projects.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💻 Passionate about programming, problem-solving, and building practical projects using modern technologies.
 
+---
+
+## 🛠️ Skills & Technologies
+
+- **Programming Languages:** Python, C, JavaScript  
+- **Web Technologies:** HTML, CSS  
+- **Databases:** MySQL  
+- **Libraries & Tools:** Pandas, Linux  
+
+---
+
+## 📂 Projects
+
+- **Jarvis (Python)**  
+  A basic voice assistant built using Python, focusing on automation and command execution.
+
+- **Basic Websites**  
+  Simple and responsive websites developed using HTML, CSS, and JavaScript.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Python concepts  
+- Web development best practices  
+- Database management  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [github.com/kevinbiju](https://github.com/kevinbiju)
+
+---
+
+⭐ *Feel free to explore my repositories and follow my learning journey!*
