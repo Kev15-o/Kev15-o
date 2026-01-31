@@ -36,7 +36,7 @@ Sahrdaya College of Advanced Studies, Thrissur, Kerala
 
 ## 📫 Connect With Me
 
-- GitHub: [github.com/kev15-o](https://github.com/kevinbiju)
+- GitHub: [github.com/kev15-o](https://github.com/kev15-o)
 
 ---
 
